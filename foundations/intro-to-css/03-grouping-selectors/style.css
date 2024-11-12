@@ -1,0 +1,14 @@
+.clicky,
+.no-clicky{
+    font-size: 28px;
+    font-family: 'Times New Roman', Helvetica, sans-serif
+}
+
+.clicky{
+    background-color: black;
+    color:white
+}
+
+.no-clicky{
+    background-color: yellow;
+}
